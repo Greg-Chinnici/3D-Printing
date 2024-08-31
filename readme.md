@@ -23,8 +23,15 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
   - what is the differnce from Mill-Max vs Sockets
     - will it require a cherry layout anyway
   - how to add LEDs
+https://www.youtube.com/watch?v=fYNxG8RwpaE
 
-
+- each half needs rows + columns pins
+  - left: r:6,c:6. right: r:6,c:10
+    - so i think i need a board with at least 24 pins (this isnt including LED controlling)
+  - maybe get a larger mircocontroller and pass through the other half
+  - controllers
+    - [38 pins](https://www.amazon.com/AITRIP-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0B764963C
+    - [3 * 16 pins](https://www.amazon.com/Teyleten-Robot-Bootloadered-Development-Microcontroller/dp/B08THVMQ46
 ## CAD notes
 - Keyboard CAD dimensions for holes
   - https://null-src.com/posts/keyboard-design-cheatsheet/
