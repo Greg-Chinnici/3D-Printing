@@ -17,6 +17,7 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
 ![plate in fusion](assets/keebprogress.png)
 
 - dont know how Im going to design or manufacture the pcb yet
+  - [manufacturing website](https://www.elecrow.com/). dci lab reccomends outsourcing for througholes
   - 2 boards (one for each half). Do I need more?
   - can I work backwards from the plate design?
   - what is the differnce from Mill-Max vs Sockets
