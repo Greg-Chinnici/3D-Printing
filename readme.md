@@ -56,11 +56,11 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
   - screw in (best kind, but needs holes in pcb before)
 
 - switches
-  -[zilents](https://zealpc.net/products/zilent?variant=5894817710118)
-  -[pegasus](https://www.amazon.com/GK-GAMAKAY-Mechanical-Keyboard-Keyboards/dp/B0BFBLTX98/?th=1)
-  -[boba rgb](https://www.aliexpress.us/item/3256804714915959.html?spm=a2g0o.productlist.main.1.1e712746Y755Sw&algo_pvid=9de6a71c-b731-4320-a16d-9efd6f5a6c61&algo_exp_id=9de6a71c-b731-4320-a16d-9efd6f5a6c61-0&pdp_npi=4%40dis%21USD%2165.90%2156.90%21%21%2165.90%2156.90%21%402101e63417250840101823035e137a%2112000030956123791%21sea%21US%210%21ABX&curPageLogUid=YjX9CKdy7qos&utparam-url=scene%3Asearch%7Cquery_from%3A)
-  -[boba black](https://www.aliexpress.us/item/3256804453022522.html?spm=a2g0o.productlist.main.3.1e712746Y755Sw&algo_pvid=9de6a71c-b731-4320-a16d-9efd6f5a6c61&algo_exp_id=9de6a71c-b731-4320-a16d-9efd6f5a6c61-1&pdp_npi=4%40dis%21USD%2166.00%2157.00%21%21%2166.00%2157.00%21%402101e63417250840101823035e137a%2112000029934907516%21sea%21US%210%21ABX&curPageLogUid=jnjc5mLhVR8d&utparam-url=scene%3Asearch%7Cquery_from%3A)
-  -[WS](https://www.amazon.com/Keyboard-Switches-Tactile-Mechanical-Compatible/dp/B0CYLLDC1L/)
+  - [zilents](https://zealpc.net/products/zilent?variant=5894817710118)
+  - [pegasus](https://www.amazon.com/GK-GAMAKAY-Mechanical-Keyboard-Keyboards/dp/B0BFBLTX98/?th=1)
+  - [boba rgb](https://www.aliexpress.us/item/3256804714915959.html?spm=a2g0o.productlist.main.1.1e712746Y755Sw&algo_pvid=9de6a71c-b731-4320-a16d-9efd6f5a6c61&algo_exp_id=9de6a71c-b731-4320-a16d-9efd6f5a6c61-0&pdp_npi=4%40dis%21USD%2165.90%2156.90%21%21%2165.90%2156.90%21%402101e63417250840101823035e137a%2112000030956123791%21sea%21US%210%21ABX&curPageLogUid=YjX9CKdy7qos&utparam-url=scene%3Asearch%7Cquery_from%3A)
+  - [boba black](https://www.aliexpress.us/item/3256804453022522.html?spm=a2g0o.productlist.main.3.1e712746Y755Sw&algo_pvid=9de6a71c-b731-4320-a16d-9efd6f5a6c61&algo_exp_id=9de6a71c-b731-4320-a16d-9efd6f5a6c61-1&pdp_npi=4%40dis%21USD%2166.00%2157.00%21%21%2166.00%2157.00%21%402101e63417250840101823035e137a%2112000029934907516%21sea%21US%210%21ABX&curPageLogUid=jnjc5mLhVR8d&utparam-url=scene%3Asearch%7Cquery_from%3A)
+  - [WS](https://www.amazon.com/Keyboard-Switches-Tactile-Mechanical-Compatible/dp/B0CYLLDC1L/)
 
 # Compelete
 
