@@ -1,4 +1,5 @@
 # Plan
+make a ortholinear split keyboard mostly from scratch. (buying switches and stabs)
 ## the process
 - keyboard-layout-editor.com
   - current layout (kle): ```[{a:7,w:2},"Esc","F1","F2","F3","F4","F5",{x:2},"F6","F7","F8","F9","F10","F11","F12",{a:5},"PAUSE\nPRTSRC","INSERT\nSCRLK","DELETE\nNMLK"],
@@ -13,7 +14,7 @@
     - the line are all separate, so you have to go over them a second time
     - still very useful tool nonetheless
 
-![plate in fusion](assets/keebprogress.png){width=500 , height=250}
+![plate in fusion](assets/keebprogress.png)
 
 - dont know how Im going to design or manufacture the pcb yet
   - 2 boards (one for each half). Do I need more?
