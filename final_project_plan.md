@@ -13,6 +13,8 @@
     - the line are all separate, so you have to go over them a second time
     - still very useful tool nonetheless
 
+![plate in fusion](assets/keebprogress.png){width=500 , height=250}
+
 - dont know how Im going to design or manufacture the pcb yet
   - 2 boards (one for each half). Do I need more?
   - can I work backwards from the plate design?
