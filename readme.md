@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=fYNxG8RwpaE
     - need to pass through at least 12 data pins if going from l->r
   - maybe get a larger mircocontroller and pass through the other half
   - controllers
-    - [38 pins](https://www.amazon.com/AITRIP-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0B764963C
-    - [3 * 16 pins](https://www.amazon.com/Teyleten-Robot-Bootloadered-Development-Microcontroller/dp/B08THVMQ46
+    - [32 gpio pins](https://www.amazon.com/AITRIP-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0B764963C)
+    - [3 * 16 pins](https://www.amazon.com/Teyleten-Robot-Bootloadered-Development-Microcontroller/dp/B08THVMQ46)
 ## CAD notes
 - Keyboard CAD dimensions for holes
   - https://null-src.com/posts/keyboard-design-cheatsheet/
