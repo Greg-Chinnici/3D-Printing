@@ -25,6 +25,7 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
   - how to add LEDs
 https://www.youtube.com/watch?v=fYNxG8RwpaE
 
+- **Look into using I2C protcol**
 - each half needs rows + columns pins
   - left: r:6,c:6. right: r:6,c:10
     - so i think i need a board with at least 28 pins (this isnt including LED controlling)
@@ -46,6 +47,9 @@ https://www.youtube.com/watch?v=fYNxG8RwpaE
   - adjustable??
 
 - pcb needs to be designed for Cherry MX hotswap holes
+
+- keycaps
+  - [parametric keycap generator](https://github.com/rsheldiii/KeyV2)
 
 ## Assembly notes
 - how to add hotswap sockets to a board
