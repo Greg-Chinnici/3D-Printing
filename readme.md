@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=fYNxG8RwpaE
 
 - each half needs rows + columns pins
   - left: r:6,c:6. right: r:6,c:10
-    - so i think i need a board with at least 24 pins (this isnt including LED controlling)
+    - so i think i need a board with at least 28 pins (this isnt including LED controlling)
+    - need to pass through at least 12 data pins if going from l->r
   - maybe get a larger mircocontroller and pass through the other half
   - controllers
     - [38 pins](https://www.amazon.com/AITRIP-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0B764963C
