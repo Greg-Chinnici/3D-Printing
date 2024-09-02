@@ -14,7 +14,8 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
     - the line are all separate, so you have to go over them a second time
     - still very useful tool nonetheless
 
-![open source keyboard examples](https://github.com/Keycapsss/awesome-mechanical-keyboard/blob/master/src/pages/en/ortholinear.md)
+[open source keyboard examples](https://github.com/Keycapsss/awesome-mechanical-keyboard/blob/master/src/pages/en/ortholinear.md)
+[making pcb in kicad](https://www.youtube.com/watch?v=kGKN8SGkUD0)
 ![plate in fusion](assets/keebprogress.png)
 
 - dont know how Im going to design or manufacture the pcb yet
@@ -25,7 +26,8 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
     - will it require a cherry layout anyway
   - how to add LEDs
 https://www.youtube.com/watch?v=fYNxG8RwpaE
-
+[kicad kle to switch placement ](https://github.com/zykrah/kicad-kle-placer)
+[kicad symbols](https://github.com/ebastler/marbastlib)
 - **Look into using I2C protcol**
 - each half needs rows + columns pins
   - left: r:6,c:6. right: r:6,c:10
@@ -49,7 +51,8 @@ https://www.youtube.com/watch?v=fYNxG8RwpaE
   - adjustable??
 
 - pcb needs to be designed for Cherry MX hotswap holes
-
+- pcb rows and cols can be wired diffently than it looks physically
+  - this can save pins if the board is more rectangular
 - keycaps
   - [parametric keycap generator](https://github.com/rsheldiii/KeyV2)
 
