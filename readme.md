@@ -41,7 +41,8 @@ https://www.youtube.com/watch?v=fYNxG8RwpaE
 - the CAD file will have offsets fot the pcb and case border
 - bridge wire goes out of the north sides
   - magnets on the inside so it can be a regular ortho
-
+- *Make sure that the the the gap is the same when the boards are combined*
+  - needs to be 5.05mm total, so each inner half is 2.5025mm
 - detachable ramps on the bottom for tilt
   - magnets inside the rubber feet
   - adjustable??
