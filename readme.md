@@ -14,6 +14,7 @@ make a ortholinear split keyboard mostly from scratch. (buying switches and stab
     - the line are all separate, so you have to go over them a second time
     - still very useful tool nonetheless
 
+![open source keyboard examples](https://github.com/Keycapsss/awesome-mechanical-keyboard/blob/master/src/pages/en/ortholinear.md)
 ![plate in fusion](assets/keebprogress.png)
 
 - dont know how Im going to design or manufacture the pcb yet
